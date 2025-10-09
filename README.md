@@ -2,7 +2,7 @@
 
 A simple and responsive Todo List application built with **React** and **Bootstrap**.
 
-![Todo App Screenshot](assets/screenshot.png)
+![Todo App Screenshot](./src/assets/Screenshot.png)
 
 ---
 
