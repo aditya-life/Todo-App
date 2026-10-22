@@ -1,7 +1,8 @@
 {
-  "name": "todo-list",
+  "name": "todo-app",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Responsive task management React 19 application with LocalStorage persistence and Bootstrap 5 styling.",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,11 +11,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@emotion/react": "^11.14.0",
-    "@emotion/styled": "^11.14.1",
-    "@fontsource/roboto": "^5.2.8",
-    "@mui/icons-material": "^6.5.0",
-    "@mui/material": "^6.5.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "uuid": "^13.0.0"
